@@ -1,0 +1,10 @@
+[Trace 14:08:14.261] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/oluwatobi/wget-log
+[Trace 14:08:14.269] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/oluwatobi/wget-log
+[Trace 14:08:14.280] Server: connection.languages.diagnostics.on: file:///home/oluwatobi/wget-log
+[Trace 14:08:14.295] Server: connection.languages.diagnostics.on: file:///home/oluwatobi/wget-log
+[Trace 14:08:14.327] DocumentSymbolProvider: provideDocumentSymbols — file:///home/oluwatobi/wget-log 1
+[Debug 14:08:14.330] LinkProvider: compute - file:///home/oluwatobi/wget-log
+[Debug 14:08:14.904] MdFoldingProvider: provideFoldingRanges — file:///home/oluwatobi/wget-log 1
+[Debug 14:08:14.907] TableOfContentsProvider: create - file:///home/oluwatobi/wget-log
+[Trace 14:08:16.489] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/oluwatobi/wget-log
+[Trace 14:08:16.490] VsCodeClientWorkspace: deleteDocument: file:///home/oluwatobi/wget-log

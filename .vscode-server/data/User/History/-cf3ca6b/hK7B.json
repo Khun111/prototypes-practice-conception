@@ -1,0 +1,7 @@
+{
+    "editor.guides.indentation": false,
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "Developers Theme - Green Coffee",
+    "workbench.productIconTheme": "developer-icons",
+    "files.autoSave": "afterDelay"
+}

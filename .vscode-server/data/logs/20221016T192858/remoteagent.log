@@ -1,0 +1,7 @@
+[2022-10-16 19:28:59.448] [remoteagent] [info] Extension host agent started.
+[2022-10-16 19:29:01.036] [remoteagent] [info] [127.0.0.1][4e62d8d2][ManagementConnection] New connection established.
+[2022-10-16 19:29:01.039] [remoteagent] [info] [127.0.0.1][a8afb236][ExtensionHostConnection] New connection established.
+[2022-10-16 19:29:02.480] [remoteagent] [info] [127.0.0.1][a8afb236][ExtensionHostConnection] <88> Launched Extension Host Process.
+[2022-10-16 19:29:13.645] [remoteagent] [error] Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+[2022-10-16 22:18:43.259] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: terminated by itself with code null, signal: SIGSEGV

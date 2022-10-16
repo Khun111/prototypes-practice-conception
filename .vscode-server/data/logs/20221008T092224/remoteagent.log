@@ -1,0 +1,12 @@
+[2022-10-08 09:22:25.157] [remoteagent] [info] Extension host agent started.
+[2022-10-08 09:22:26.299] [remoteagent] [info] [127.0.0.1][618ad314][ManagementConnection] New connection established.
+[2022-10-08 09:22:26.303] [remoteagent] [info] [127.0.0.1][4da99fb3][ExtensionHostConnection] New connection established.
+[2022-10-08 09:22:26.539] [remoteagent] [info] [127.0.0.1][4da99fb3][ExtensionHostConnection] <86> Launched Extension Host Process.
+[2022-10-08 09:22:38.172] [remoteagent] [error] Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+[2022-10-08 11:01:01.541] [remoteagent] [info] [127.0.0.1][4da99fb3][ExtensionHostConnection] The client has reconnected.
+[2022-10-08 11:01:01.707] [remoteagent] [info] [127.0.0.1][618ad314][ManagementConnection] The client has reconnected.
+[2022-10-08 11:47:59.311] [remoteagent] [info] [127.0.0.1][618ad314][ManagementConnection] The client has reconnected.
+[2022-10-08 11:47:59.478] [remoteagent] [info] [127.0.0.1][4da99fb3][ExtensionHostConnection] The client has reconnected.
+[2022-10-08 12:48:33.436] [remoteagent] [info] [127.0.0.1][618ad314][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-08 12:48:36.004] [remoteagent] [info] [127.0.0.1][4da99fb3][ExtensionHostConnection] <86> Extension Host Process exited with code: 0, signal: null.

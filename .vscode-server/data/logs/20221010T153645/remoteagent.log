@@ -1,0 +1,9 @@
+[2022-10-10 15:36:46.546] [remoteagent] [info] Extension host agent started.
+[2022-10-10 15:36:47.529] [remoteagent] [info] [127.0.0.1][14be9071][ManagementConnection] New connection established.
+[2022-10-10 15:36:47.601] [remoteagent] [info] [127.0.0.1][6fdd9ce9][ExtensionHostConnection] New connection established.
+[2022-10-10 15:36:47.849] [remoteagent] [info] [127.0.0.1][6fdd9ce9][ExtensionHostConnection] <75> Launched Extension Host Process.
+[2022-10-10 15:36:52.283] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-10 15:36:59.815] [remoteagent] [error] Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+[2022-10-10 15:39:21.506] [remoteagent] [info] [127.0.0.1][14be9071][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-10 15:39:24.817] [remoteagent] [info] [127.0.0.1][6fdd9ce9][ExtensionHostConnection] <75> Extension Host Process exited with code: 0, signal: null.

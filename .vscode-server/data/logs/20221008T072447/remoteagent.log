@@ -1,0 +1,10 @@
+[2022-10-08 07:24:48.138] [remoteagent] [info] Extension host agent started.
+[2022-10-08 07:24:48.979] [remoteagent] [info] [127.0.0.1][759d656d][ManagementConnection] New connection established.
+[2022-10-08 07:24:48.995] [remoteagent] [info] [127.0.0.1][7432ed35][ExtensionHostConnection] New connection established.
+[2022-10-08 07:24:57.838] [remoteagent] [error] ptyHost was unable to resolve shell environment {}
+[2022-10-08 07:24:57.838] [remoteagent] [error] RequestService#request (node) resolving shell environment failed {}
+[2022-10-08 07:24:57.839] [remoteagent] [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
+[2022-10-08 07:24:57.847] [remoteagent] [info] [127.0.0.1][7432ed35][ExtensionHostConnection] <98> Launched Extension Host Process.
+[2022-10-08 07:25:01.787] [remoteagent] [error] Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+[2022-10-08 07:25:10.924] [remoteagent] [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
